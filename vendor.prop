@@ -186,6 +186,7 @@ ro.hwui.render_ahead=20
 
 # SkiaGL
 debug.hwui.renderer=skiagl
+debug.hwui.skia_atrace_enabled=false
 debug.renderengine.backend=skiaglthreaded
 renderthread.skia.reduceopstasksplitting=true
 
